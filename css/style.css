@@ -1,3 +1,9 @@
-/*
- * Write your own styles in this file
- */
+.container [class^="col"]{
+    padding-top: .75rem;
+    padding-bottom: .75rem;
+    background-color: rgb(108, 196, 255);
+    border: 1px solid rgba(0,0,0,5);
+}
+.container mt-4{
+    margin: 8px 134.667px 0px;
+}
